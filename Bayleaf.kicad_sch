@@ -6117,7 +6117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ab19f12-61aa-4f07-8bc6-3801b6350ad8")
-		(property "Reference" "L_J2"
+		(property "Reference" "L_J1"
 			(at 143.51 247.6499 0)
 			(effects
 				(font
@@ -6171,7 +6171,7 @@
 		(instances
 			(project "Bayleaf"
 				(path "/cc4feee6-6309-4a8f-81f1-d1c4eb544ca9"
-					(reference "L_J2")
+					(reference "L_J1")
 					(unit 1)
 				)
 			)
